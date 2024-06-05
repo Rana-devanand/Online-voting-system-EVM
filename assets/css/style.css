@@ -1,0 +1,56 @@
+:root {
+
+    --first-color : rgb(255, 255, 255);
+    --second-color: rgb(1, 47, 146);
+    --third :rgba(174, 174, 255, 0.863);
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    min-height: 300vh;
+}
+#row2,#row3{
+    background-color: var(--second-color);
+    color: var(--first-color);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#info-2 h4{
+    font-size: 30px;
+    font-weight: 700;
+}
+#row3-info p{
+    font-size: 16px;
+}
+
+b{
+    color: rgba(12, 104, 110, 0.993);
+    
+}
+
+#city h4{
+    font-size: 38px;
+    font-family:sans-serif;
+    font-weight: 600    ;
+}
+
+#city p{
+    font-size: 18px;
+}
+.card-text {
+    color:#000000;
+}
+#city h4,p{
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+
+.llk{
+    color :#37da60;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+

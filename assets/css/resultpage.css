@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(90deg, rgba(235, 139, 4, 0.637) 0%, rgba(254,179,74,0.555) 22%, rgba(255,250,243,0.555) 44%, rgba(255,255,255,0.555) 51%, rgba(243,251,238,0.555) 60%, rgba(73, 204, 7, 0.637) 100%);
+}
+.container{
+    border : 1px solid #000;
+    background-color: rgb(255, 246, 246);
+}
+.card-body{
+    padding: 15px ;
+ /* background-color: rgb(54, 177, 136);
+ border: 1px solid #000; */
+ color: #fff;
+
+}
+h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+}
+hr{
+    margin: 0px;
+    padding: 0px;
+}
+

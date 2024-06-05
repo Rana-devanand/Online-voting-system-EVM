@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+body{
+min-height: 2vh;
+background-image:  url('back/indian.jpg');
+background-size: 100%;
+background-repeat: no-repeat;
+font-family: 'Numans', sans-serif; 
+background-size: inline; 
+background-position: center;
+}
+h1{
+    color:rgba(255, 255, 255, 0.534);
+    
+}
