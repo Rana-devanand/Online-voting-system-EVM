@@ -6,7 +6,7 @@ Inside the project,there is an admin section where the head admin updates and ha
 ### There are certain steps that you follow when using this project on a local server.
 - Step 1 : Install the Xampp Server.[Xampp]([/path/to/image.png](https://www.apachefriends.org/download.html))
 - Step 2 : Download this Whole piece of code, and put into the file path ->`C:\xampp\htdocs\voting`
-- Step 3 : Start the Server, `Apache and Mysql`
+- Step 3 : Start the Xampp Server, `Apache and Mysql`
 - Step 4 : Now open the `phpmyadmin` panel, Import the `Database.sql` file
 - Step 6 : Now Run the `index.php`. Type **URL** - *[localhost/voting/ ](http://localhost/voting/index.php)*
 
